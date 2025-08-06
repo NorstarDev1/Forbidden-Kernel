@@ -1,0 +1,8 @@
+{
+  "alert_id": "DRIFT_ALERT_002",
+  "origin": "interaction",
+  "severity": "latent",
+  "confidence": 0.88,
+  "trigger_vector": "oracle/drift/test-vectors/complex/delayed-propagation.json",
+  "timestamp": "2025-08-05T12:25:00Z"
+}

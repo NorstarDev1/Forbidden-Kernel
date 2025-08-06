@@ -1,0 +1,7 @@
+{
+  "dataset": "telemetry/mock/wellness_ping_001.log",
+  "load_status": { "cpu_percent": 45, "memory_percent": 65 },
+  "wellness_ping": { "heartbeats": 120, "drift_spikes": 3 },
+  "anomalies": [ "cpu_spike", "drift_alert" ],
+  "timestamp": "2025-08-05T12:05:00Z"
+}

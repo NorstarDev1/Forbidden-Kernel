@@ -1,0 +1,7 @@
+{
+  "test_vector": "oracle/drift/test-vectors/minimal/short-run.json",
+  "baseline": { "drift": 0.015, "latency_ms": 40 },
+  "run":      { "drift": 0.017, "latency_ms": 42 },
+  "delta":    { "drift": 0.002, "latency_ms": 2 },
+  "timestamp": "2025-08-05T12:15:00Z"
+}

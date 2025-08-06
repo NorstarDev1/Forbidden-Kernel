@@ -1,0 +1,9 @@
+{
+  "test_vector": "oracle/drift/test-vectors/complex/recursive-loop.json",
+  "baseline": { "drift": 0.030, "latency_ms": 70 },
+  "run":      { "drift": 0.036, "latency_ms": 80 },
+  "delta":    { "drift": 0.006, "latency_ms": 10 },
+  "anomalies": ["recursive_drift"],
+  "safe_mode_triggered": true,
+  "timestamp": "2025-08-05T12:18:00Z"
+}

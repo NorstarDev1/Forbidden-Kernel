@@ -1,0 +1,9 @@
+{
+  "last_drift_test": "logs/validation/drift_waveform_complex_run1.json",
+  "last_wellness_test": "logs/validation/wellness_ping_run1.json",
+  "drift_alerts": 2,
+  "wellness_flags": ["cpu_spike"],
+  "status": "Nominal",
+  "safe_mode_active": true,
+  "timestamp": "2025-08-05T12:20:00Z"
+}

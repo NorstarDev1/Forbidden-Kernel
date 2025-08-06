@@ -1,0 +1,8 @@
+{
+  "alert_id": "DRIFT_ALERT_001",
+  "origin": "software",
+  "severity": "cascading",
+  "confidence": 0.95,
+  "trigger_vector": "oracle/drift/test-vectors/complex/recursive-loop.json",
+  "timestamp": "2025-08-05T12:18:00Z"
+}

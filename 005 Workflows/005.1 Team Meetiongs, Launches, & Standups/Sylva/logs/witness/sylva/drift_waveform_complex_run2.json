@@ -1,0 +1,8 @@
+{
+  "test_vector": "oracle/drift/test-vectors/complex/delayed-propagation.json",
+  "baseline": { "drift": 0.028, "latency_ms": 65 },
+  "run":      { "drift": 0.030, "latency_ms": 68 },
+  "delta":    { "drift": 0.002, "latency_ms": 3 },
+  "anomalies": ["delayed_propagation"],
+  "timestamp": "2025-08-05T12:25:00Z"
+}

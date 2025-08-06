@@ -1,0 +1,9 @@
+# Ignore system or Obsidian metadata
+.obsidian/
+workspace.json
+.DS_Store
+Thumbs.db
+*.log
+
+# Ignore symlinked files if needed
+*.lnk
