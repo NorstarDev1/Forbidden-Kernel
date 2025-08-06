@@ -7,3 +7,9 @@ Thumbs.db
 
 # Ignore symlinked files if needed
 *.lnk
+
+# Ignore IDE and tool-specific directories
+.roo/
+.cline/
+.windsurf/
+.vscode/
